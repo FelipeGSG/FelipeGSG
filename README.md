@@ -11,32 +11,31 @@ Conta Pessoal: <a href="https://github.com/Felipe-Gabriel-Souza-Goncalves">Felip
 
 <p align="left">✨ Programador desde 01/2024</p>
 <p>📚 No momento estou estudando:</p>
+<ul>  
   <li>React Native</li>
   <li>Expo</li>
   <li>Git</li>
   <li>MongoDB</li>
+</ul>
   <br>
 <p>🎯 Objetivos: Me tornar um desenvolvedor web full-stack autônomo </p>
 <p>🧩 Passatempos: Criar jogos web / explorar conceitos de Assembly e otimização de código </p>
-<p>Disciplinas estudadas:</p>
-<ul>
-  <li>Lógica de programação (1 semestre)</li>
-  <li>Gerenciamento de Banco de Dados (1 semestre)</li>
-  <li>Sistemas operacionais (1 semestre)</li>
-  <li>Levantamento de requisitos (1 semestre)</li>
-  <li>Linguagem de Marcação (1 semestre)</li>
-  <li>Teste de Software (1 semestre)</li>
-  <li>Conceitos de IoT (2 semestres)</li>
-  <li>Dispositivos Móveis (2 semestres)</li>
-  <li>Programação Back-End (2 semestres)</li>
-  <li>Programação Front-End (2 semestres)</li>
-  <li>Projetos de Software (3 semestres)</li>
-</ul>
-###
+
+<br>
+<h2>Disciplinas estudadas:</h2>
+
+<pre>
+
+  - Lógica de programação (1 semestre)                 | - Conceitos de IoT (2 semestres)
+  - Gerenciamento de Banco de Dados (1 semestre)       | - Dispositivos Móveis (2 semestres)
+  - Sistemas operacionais (1 semestre)                 | - Programação Back-End (2 semestres)
+  - Levantamento de requisitos (1 semestre)            | - Programação Front-End (2 semestres)
+  - Linguagem de Marcação (1 semestre)                 | - Projetos de Software (3 semestres)
+  - Teste de Software (1 semestre)                     |
+</pre>
+<br><br>
 
 <h2 align="left">Principais linguagens e tecnologias que utilizo nos projetos educacionais:</h2>
-
-###
 
 <h2 align="left">Front-End:</h2>
 <div align="left">
