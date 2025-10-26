@@ -4,6 +4,7 @@
 
 <p align="left">Meu nome é Felipe Gabriel e eu estudo no SENAI Nami Jafet no curso de Desenvolvimento de Sistemas!</p>
 Conta Pessoal: <a href="https://github.com/Felipe-Gabriel-Souza-Goncalves">Felipe-Gabriel</a>
+Linkedin:  <a href=" www.linkedin.com/in/felipe-gabriel-souza-gonçalves-b78779358">www.linkedin.com/in/felipe-gabriel-souza-gonçalves-b78779358</a>
 
 <h2 align="left">Sobre mim:</h2>
 
